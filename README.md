@@ -72,5 +72,5 @@ Check out our demo [here](https://youtu.be/vNx6jiw8zbo?si=wTc2LfKsuN3y8s-t)
 
 ## License
 This project is licensed under the 
-[MIT Licence](https://choosealicense.com/licenses/mit/)
+[MIT Licence](https://github.com/manasagar/ToneCraft_final/blob/main/LICENSE)
 
